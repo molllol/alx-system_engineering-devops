@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 766 0x01-shell_permissions
+chmod -R u+xwr go+x 0x01-shell_permissions
